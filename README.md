@@ -16,13 +16,17 @@ FibonacciApiTask is a .NET-based application for generating Fibonacci sequences.
    git clone git@github.com:Cheburara/FibonacciApiTask.git
 
 2. Restore dependencies:
+   ```bash
    dotnet restore
 
 3. Build the solution:
+   ```bash
    dotnet build
 
 4. Run the API:
+   ```bash
    dotnet run --project FibonacciApiTask
 
 5. Run the unit tests:
+   ```bash
    dotnet test
