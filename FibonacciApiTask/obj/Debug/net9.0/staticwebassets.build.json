@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VnZYhIt+6nbzU9K3W42iANUCHtCOV6cf7jj3i1pvMVM=",
+  "Source": "FibonacciApiTask",
+  "BasePath": "_content/FibonacciApiTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
